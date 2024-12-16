@@ -1,4 +1,4 @@
-<h1>Railway Booking System<\h1>
+<h1>Railway Booking System</h1>
 
 This is a simple Railway Booking System implemented in C. It provides functionalities such as user account creation, login, ticket booking, ticket viewing, and ticket cancellation.
 
